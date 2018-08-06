@@ -15,8 +15,8 @@ x=[c1,c2,c3]
 for p in x:
     print(p)
 x.sort(key=lambda c:c.cbal)
-for q in x:
-    print(q)
+#for q in x:
+ #   print(q)
 
 
 
